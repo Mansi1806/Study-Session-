@@ -1,0 +1,6 @@
+version: '3'
+services:
+     studysession:
+       image: mansi1824/pa4
+       ports:
+          - "5000:5000"
