@@ -56,4 +56,4 @@ Jeremy Jung: iOS
 Christy Song: iOS
 
 Official Github: https://github.com/triple-jay/studysessionproj 
-# it contains all files of frontend and backend of this project.
+(it contains all files of frontend and backend of this project.)
