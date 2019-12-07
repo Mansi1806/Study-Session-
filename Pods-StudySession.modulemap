@@ -1,6 +1,0 @@
-framework module Pods_StudySession {
-  umbrella header "Pods-StudySession-umbrella.h"
-
-  export *
-  module * { export * }
-}
